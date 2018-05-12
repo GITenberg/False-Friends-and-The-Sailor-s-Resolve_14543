@@ -1,0 +1,29 @@
+_repo: False-Friends-and-The-Sailor-s-Resolve_14543
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_issued: '2004-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14543'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'Prayer -- Juvenile fiction'
+- !lcsh 'Temper -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Christian life -- Juvenile fiction'
+title: False Friends, and The Sailor's Resolve
+url: http://www.gutenberg.org/ebooks/14543
